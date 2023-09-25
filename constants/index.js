@@ -22,6 +22,7 @@ import image20 from '../public/images/slider/project01_01.jpg'
 import image21 from '../public/images/slider/project01_03.jpg'
 import image22 from '../public/images/slider/project01_04.jpg'
 
+
 const werken = [
     {
     titel: "aanleg graszoden of inzaaien gazon",

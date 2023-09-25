@@ -4,7 +4,7 @@ import { werken } from "@/constants";
 const WorkCard = ({ index, titel, beschrijving, image }) => {
   return (
     <div
-      style={{ backgroundImage: `url(${image})` }}
+      style={{ backgroundImage: `url(${image.src})` }}
       className="w-[100%] max-w-[615px] lg:w-[45%] bg-[#3F3F44] mx-4 mb-8 bg-cover h-[200px] flex items-end overflow-hidden"
       key={index}
     >

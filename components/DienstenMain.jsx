@@ -28,7 +28,7 @@ const DienstenMain = () => {
         <div className="bg-[#3F3F44] text-white text-4xl overflow-hidden">
           <div
             className="m-4 h-[10vh] bg-cover flex items-center pl-4"
-            style={{ backgroundImage: `url(${image1})` }}
+            style={{ backgroundImage: `url(${image1.src})` }}
           >
             <a href="#tuinontwerp" className="pr-4 flex flex-row items-center">
               Tuinontwerp ‎
@@ -37,7 +37,7 @@ const DienstenMain = () => {
           </div>
           <div
             className="m-4 h-[10vh] bg-cover flex items-center pl-4"
-            style={{ backgroundImage: `url(${image2})` }}
+            style={{ backgroundImage: `url(${image2.src})` }}
           >
             <a href="#tuinaanleg" className="pr-4 flex flex-row items-center">
               Tuinaanleg ‎
@@ -46,7 +46,7 @@ const DienstenMain = () => {
           </div>
           <div
             className="m-4 h-[10vh] bg-cover flex items-center pl-4"
-            style={{ backgroundImage: `url(${image3})` }}
+            style={{ backgroundImage: `url(${image3.src})` }}
           >
             <a href="#onderhoud" className="pr-4 flex flex-row items-center">
               Onderhoud ‎

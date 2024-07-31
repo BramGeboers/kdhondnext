@@ -2,7 +2,6 @@ import React from "react";
 import image1 from "../public/images/onderhoud/image1.jpg";
 import Image from "next/image";
 
-
 const Onderhoud = () => {
   return (
     <div>
@@ -11,15 +10,14 @@ const Onderhoud = () => {
           <div className="md:w-[50%] w-[100%] md:pr-8 pb-8">
             <h2 className="text-5xl pb-12 font-semibold">Onderhoud</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est
-              erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean
-              dolor ante, pulvinar congue imperdiet at, euismod id nulla. In
-              malesuada eleifend pretium. Suspendisse euismod, ex dapibus mattis
-              rhoncus, arcu metus accumsan arcu, sit amet dapibus leo erat a
-              mauris. Phasellus vehicula nisi ipsum. Nulla facilisi. Donec
-              placerat lorem sit amet metus mollis, et feugiat elit consequat.
-              Aliquam blandit leo a nunc ultricies, ut vehicula dui ultrices.
-              Vestibulum lobortis a urna ut sodales.
+              Bij Tuinaanleg Kevin Dhond begrijpen we het belang van een goed
+              onderhouden tuin. Ons team biedt uitgebreide onderhoudsdiensten om
+              uw tuin er het hele jaar door prachtig uit te laten zien. Van
+              snoeien en bemesten tot onkruidbestrijding en seizoensgebonden
+              verzorging, wij zorgen ervoor dat uw buitenruimte altijd in
+              topconditie is. Met ons vakkundige onderhoud behoudt uw tuin zijn
+              schoonheid en vitaliteit, zodat u onbezorgd kunt genieten van een
+              groene en verzorgde omgeving.
             </p>
           </div>
           <Image src={image1} alt="" className="md:w-[50%] md:pl-8" />

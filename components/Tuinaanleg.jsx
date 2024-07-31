@@ -8,7 +8,7 @@ const WorkCard = ({ index, titel, beschrijving, image }) => {
       className="w-[100%] max-w-[615px] lg:w-[45%] bg-[#3F3F44] mx-4 mb-8 bg-cover h-[200px] flex items-end overflow-hidden"
       key={index}
     >
-      <div className=" bg-[#8CC540] bg-opacity-90 cursor-pointer xxs:translate-y-[155px]  xs:translate-y-[130px] s:translate-y-[105px] translate-y-[175px] ease-in-out duration-500 hover:translate-y-0">
+      <div className=" bg-[#8CC540] bg-opacity-90 cursor-pointer xxs:translate-y-[130px] xs:translate-y-[105px] s:translate-y-[82px] translate-y-[100px] ease-in-out duration-500 hover:translate-y-0">
         <h3 className="text-l md:text-xl uppercase px-4 py-2 pointer-events-none flex flex-row items-center">
           {titel}
         </h3>

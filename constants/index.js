@@ -24,46 +24,47 @@ import image22 from '../public/images/slider/project01_04.jpg'
 
 
 const werken = [
-    {
-    titel: "aanleg graszoden of inzaaien gazon",
-    beschrijving: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean dolor ante, pulvinar congue imperdiet at, euismod id nulla. In malesuada eleifend pretium.",
+  {
+    titel: "Aanleg Graszoden of Inzaaien Gazon",
+    beschrijving: "Wij verzorgen de aanleg van graszoden voor direct groen resultaat en het inzaaien van gazons als kosteneffectieve optie. Onze vakmensen creëren een gazon dat bij uw tuin past.",
     image: image6
   },
   {
-    titel: "Leveren en plaatsen beplanting",
-    beschrijving: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean dolor ante, pulvinar congue imperdiet at, euismod id nulla. In malesuada eleifend pretium.",
+    titel: "Leveren en Plaatsen Beplanting",
+    beschrijving: "Wij leveren en plaatsen diverse soorten beplanting, passend bij uw tuinontwerp. Van bomen tot bloemen, wij zorgen voor een harmonieuze en kleurrijke buitenruimte.",
     image: image7
   },
   {
     titel: "Grondwerk",
-    beschrijving: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean dolor ante, pulvinar congue imperdiet at, euismod id nulla. In malesuada eleifend pretium.",
+    beschrijving: "Voor een sterke basis van uw tuin bieden wij professioneel grondwerk. Onze diensten omvatten egalisatie, drainage en bodembewerking voor optimale plantengroei.",
     image: image2
   },
   {
-    titel: "Klinkerwerken en bestrating",
-    beschrijving: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean dolor ante, pulvinar congue imperdiet at, euismod id nulla. In malesuada eleifend pretium.",
+    titel: "Klinkerwerken en Bestrating",
+    beschrijving: "Wij verzorgen klinkerwerken en bestrating voor paden, terrassen en opritten. Met oog voor detail creëren we duurzame en stijlvolle bestrating die bij uw tuin past.",
     image: image3
   },
   {
-    titel: "Plaatsen afsluitingen",
-    beschrijving: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean dolor ante, pulvinar congue imperdiet at, euismod id nulla. In malesuada eleifend pretium.",
+    titel: "Plaatsen Afsluitingen",
+    beschrijving: "Voor privacy en veiligheid plaatsen wij diverse soorten afsluitingen. Onze oplossingen zijn zowel functioneel als esthetisch, passend bij uw tuinontwerp.",
     image: image4
   },
   {
-    titel: "Aanleggen beregeninginstallaties",
-    beschrijving: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean dolor ante, pulvinar congue imperdiet at, euismod id nulla. In malesuada eleifend pretium.",
+    titel: "Aanleggen Beregeningsinstallaties",
+    beschrijving: "Wij installeren beregeningssystemen om uw tuin efficiënt en gelijkmatig te bewateren. Onze systemen zorgen voor gezonde planten en een groen gazon, het hele jaar door.",
     image: image5
   },
   {
-    titel: "Verwijderen beplanting en verharding",
-    beschrijving: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean dolor ante, pulvinar congue imperdiet at, euismod id nulla. In malesuada eleifend pretium.",
+    titel: "Verwijderen Beplanting en Verharding",
+    beschrijving: "Wij verwijderen ongewenste beplanting en verharding snel en efficiënt. Onze aanpak zorgt voor een schone lei, klaar voor nieuwe plannen voor uw buitenruimte.",
     image: image1
   },
   {
-    titel: "tuinverlichting",
-    beschrijving: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean dolor ante, pulvinar congue imperdiet at, euismod id nulla. In malesuada eleifend pretium.",
+    titel: "Tuinverlichting",
+    beschrijving: "Creëer sfeer en veiligheid met onze tuinverlichting. Wij bieden een scala aan verlichtingsoplossingen die uw tuin zowel functioneel als esthetisch verlichten.",
     image: image8
-   },
+  }
+  
 
 ];
 

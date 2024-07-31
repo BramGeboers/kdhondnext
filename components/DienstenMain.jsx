@@ -14,15 +14,13 @@ const DienstenMain = () => {
         <div className="flex flex-col md:pr-16 md:p-0 px-8 mb-10 md:mb-0 md:w-[50%] max-w-[480px] md:max-w-none">
           <h1 className="text-6xl font-semibold pb-12">Diensten</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis est
-            erat, pulvinar ac sollicitudin non, consectetur eget eros. Aenean
-            dolor ante, pulvinar congue imperdiet at, euismod id nulla. In
-            malesuada eleifend pretium. Suspendisse euismod, ex dapibus mattis
-            rhoncus, arcu metus accumsan arcu, sit amet dapibus leo erat a
-            mauris. Phasellus vehicula nisi ipsum. Nulla facilisi. Donec
-            placerat lorem sit amet metus mollis, et feugiat elit consequat.
-            Aliquam blandit leo a nunc ultricies, ut vehicula dui ultrices.
-            Vestibulum lobortis a urna ut sodales.
+            Bij Tuinaanleg Kevin Dhond bieden wij een uitgebreid scala aan
+            diensten om uw tuin tot leven te brengen. Of het nu gaat om het
+            ontwerpen van een nieuwe tuin, het vakkundig aanleggen van uw
+            buitenruimte, of het periodiek onderhouden van uw tuin, wij staan
+            voor u klaar. Ons team van experts zorgt ervoor dat uw tuin altijd
+            in topconditie is, zodat u kunt genieten van een prachtige en
+            verzorgde buitenomgeving.
           </p>
         </div>
         <div className="bg-[#3F3F44] text-white text-4xl overflow-hidden">
